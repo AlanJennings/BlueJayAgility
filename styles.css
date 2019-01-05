@@ -1,0 +1,13 @@
+
+body {
+	margin: 0;
+  background-color: #C3DDF9;
+  font-family: "nta", Arial, sans-serif;
+}
+
+
+/* Main content */
+.main {
+  padding: 16px;
+  margin-top: 30px;
+}
